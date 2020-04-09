@@ -1,2 +1,2 @@
 
-print('nmsl')
+print('nmsl, idiot indian')
